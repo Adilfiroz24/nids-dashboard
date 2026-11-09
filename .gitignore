@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+frontend/dist/
+data/*
+!data/.gitkeep
+
+*.sqlite3
+*.db
+.env
+!.env.example
+.venv/
+node_modules/
+.pytest_cache/
+frontend/dist/
+data/archive/
